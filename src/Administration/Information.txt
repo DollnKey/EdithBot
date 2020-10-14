@@ -1,0 +1,13 @@
+===============================================================
+|                                                             |
+|                  Category Administration's                  |                             
+|                                                             |
+===============================================================
+| 
+| ◾ Command Name:  "cmdchannel"
+| ◾ Command Aliases:  "canalcmd", "canalcmd", "setcanalcmd", "setcmdcanal"
+| ◾ Command Permission:  "Gerenciar Servidor"
+| ◾ Command Usage:  "cmdchannel [add|rem] <canal>"
+| ◾ Command Category:  "Administrativo"
+|
+|==============================================================
