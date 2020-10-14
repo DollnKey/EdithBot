@@ -1,0 +1,45 @@
+===============================================================
+|                                                             |
+|                     Category MysteryBox's                   |                             
+|                                                             |
+===============================================================
+| 
+| ◾ Command Name:  "caixas"
+| ◾ Command Aliases:  "box", "boxs", "caixa""
+| ◾ Command Permission:  "Nenhuma"
+| ◾ Command Usage:  "caixas"
+| ◾ Command Category:  "Caixa Misteriósa = MysteryBox"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "abrircaixa"
+| ◾ Command Aliases:  "openbox", "abrirbox"
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "abrircaixa <nome>"
+| ◾ Command Category:  "Caixa Misteriósa = MysteryBox"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "delcaixa"
+| ◾ Command Aliases:  "Nenhuma."
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "delcaixa <nome>"
+| ◾ Command Category:  "Caixa Misteriósa = MysteryBox"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "criarcaixa"
+| ◾ Command Aliases:  "Nenhuma."
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "criarcaixa"
+| ◾ Command Category:  "Caixa Misteriósa = MysteryBox"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "infocaixa"
+| ◾ Command Aliases:  "Nenhuma."
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "infocaixa <nome>"
+| ◾ Command Category:  "Caixa Misteriósa = MysteryBox"
+|
+|==============================================================
