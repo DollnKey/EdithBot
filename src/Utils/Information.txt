@@ -1,0 +1,53 @@
+===============================================================
+|                                                             |
+|                     Category Utility's                      |                             
+|                                                             |
+===============================================================
+| 
+| ◾ Command Name:  "avatar"
+| ◾ Command Aliases:  "av"
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "avatar <membro>"
+| ◾ Command Category:  "Imagens, Utilidades & Diversão"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "perfil"
+| ◾ Command Aliases:  "userinfo"
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "perfil <membro>"
+| ◾ Command Category:  "Informativos & Utilidades"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "botinfo"
+| ◾ Command Aliases:  "infobot", "bot"
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "botinfo"
+| ◾ Command Category:  "Informativos & Utilidades"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "ping"
+| ◾ Command Aliases:  "pin", "botping"
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "ping"
+| ◾ Command Category:  "Informativos & Utilidades"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "bugreport"
+| ◾ Command Aliases:  "bug", "reportbug"
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "bugreport <bug>"
+| ◾ Command Category:  "Informativos & Utilidades"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "convite"
+| ◾ Command Aliases:  "addbot", "invite"
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "convite"
+| ◾ Command Category:  "Informativos & Utilidades"
+|
+|==============================================================
