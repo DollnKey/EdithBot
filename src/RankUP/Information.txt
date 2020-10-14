@@ -1,0 +1,45 @@
+===============================================================
+|                                                             |
+|                       Category RankUP's                     |                             
+|                                                             |
+===============================================================
+| 
+| ◾ Command Name:  "mina"
+| ◾ Command Aliases:  "Nenhuma."
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "mina"
+| ◾ Command Category:  "Minecraft & Economia"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "minerar"
+| ◾ Command Aliases:  "Nenhuma."
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "minerar"
+| ◾ Command Category:  "Minecraft & Economia"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "shop"
+| ◾ Command Aliases:  "loja"
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "shop"
+| ◾ Command Category:  "Minecraft & Economia"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "farm"
+| ◾ Command Aliases:  "plot", "slot"
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "farm"
+| ◾ Command Category:  "Minecraft & Economia"
+|
+|==============================================================
+| 
+| ◾ Command Name:  "warps"
+| ◾ Command Aliases:  "warp"
+| ◾ Command Permission:  "Nenhuma."
+| ◾ Command Usage:  "warps"
+| ◾ Command Category:  "Minecraft & Economia"
+|
+|==============================================================
